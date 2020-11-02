@@ -1,0 +1,28 @@
+h1 {
+    border-bottom: 1px dashed rgb(0, 0, 0);
+    color: brown;
+    /*Kleinbuchstaben als kleine Großbuchstaben darstellen*/
+    font-variant: small-caps;
+    color: steelblue;
+}
+.date {
+    font-weight: bold; color: red;
+}
+
+ul li{
+    list-style-type: lower-roman;
+    background: #cce5ff
+    padding 5px
+    margin 5px
+}
+
+ol li {
+    background: #ffe5e5;
+    padding: 5px;
+    margin-left: 35px;
+}
+
+ul {
+    background: #3399ff;
+    padding: 20px;
+}
